@@ -1,0 +1,24 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "Primer proyecto de npm del curso de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DanielGuerreroR/npm-init.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Angular",
+    "Node"
+  ],
+  "author": "Daniel Guerrero <dansan_2002@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielGuerreroR/npm-init/issues"
+  },
+  "homepage": "https://github.com/DanielGuerreroR/npm-init#readme"
+}
